@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hi there, I'm Likhitha Dhanaraju 👋
 
-<!--
-**likhitha-dhanaraju/likhitha-dhanaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=likhitha-dhanaraju&style=plastic)
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://www.linkedin.com/in/likhitha-dhanaraju) [![GitHub](https://img.shields.io/badge/GitHub-follow-green)](https://github.com/likhitha-dhanaraju)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💼 About Me
+
+Analytical thinker with experience in management consulting and e-commerce, passionate about leading high-quality projects and bringing technical expertise in Python, SQL, and Excel. Eager to continue learning and contribute to a data-driven team for informed decision-making.
+
+### 🎓 Education
+
+- **EDHEC Business School, Lille, France**  
+  MSc in Data Analytics and Artificial Intelligence (Expected Graduation: Dec 2024)  
+  - 🏅 Cumulative GPA: 15.45/20 (Top 5% of the batch)  
+  - 📚 Relevant coursework: Data Visualisation with Power BI, Web Analytics, Data Mining, Machine Learning  
+  - 📝 Master thesis: SmartAssist: Intelligent chatbot to enhance user shopping on e-commerce websites
+
+- **National Institute of Technology Karnataka Surathkal, India**  
+  Bachelor of Technology in Mechanical Engineering  
+  - 🏅 Cumulative GPA: 8.63/10 (Top 15% of the batch)  
+  - 📚 Relevant coursework: Data Analytics - Business Decision Making, Marketing Analytics, Forecasting Models
+
+### 🛠️ Skills and Languages
+
+- **Tools:** MS Office (Excel, VBA, PowerPoint), Power BI, Tableau, AWS, Google Cloud, Azure, Git, Jira
+- **Programming:** SQL (Databricks, Snowflake), Python (pandas, Django, PyTorch, TensorFlow, Keras), HTML, CSS
+- **Languages:** English (Native), French (Elementary), Korean (Intermediate), Kannada (Native)
+
+### 💼 Work Experience
+
+**Decision Analytics Associate Consultant, ZS Associates, Pune, India**  
+Jun 2021 - Jul 2023  
+- 📈 Built a robust optimization model to re-identify high-value targets, resulting in a 15% increase in sales.
+- 🎯 Devised a collaborative customer targeting strategy, leading to a territory design revamp and portfolio expansion.
+- 🚀 Revamped territory management to maximize penetration within customer segments, resulting in a quarterly 30% increase in revenue.
+
+**Computer Vision Intern, Vectorised AI Labs, Virtual (India)**  
+May 2020 - Jul 2020  
+- 🤖 Conceptualized an algorithm for automatic data collection and engineered a custom image captioning model for fashion product images.
+
+**ML/AI Development Intern, Dumla Inc, Virtual (US)**  
+Jan 2020 - Mar 2020  
+- 🔍 Optimized SSD models for detecting empty shelf spaces with 95% accuracy and deploying the model in a Docker container for real-time monitoring.
+
+**Analytics Research Intern, Indian Institute of Science, Bangalore, India**  
+May 2019 - Jul 2019  
+- 📊 Enhanced training data quality and improved the VoxelNet model for 3D object recognition. Designed web-based augmented reality using AR.js and A-Frame.
