@@ -32,21 +32,22 @@ Analytical thinker with experience in management consulting, e-commerce and tech
 
 | **Skill**                        | **Level**         | **Projects**     |
 | :------------------------------: | :---------------: | :--------------: |
-| Python                       | 🌟🌟🌟🌟    |                |
-| SQL                          | 🌟🌟🌟🌟    |                |
+| Python                       | 🌟🌟🌟🌟    | <ul><li>[Time Series Prediction](https://github.com/likhitha-dhanaraju/time-series)</li><li>[Object Detection pre-processing files](https://github.com/likhitha-dhanaraju/object_detection)</li><li>[OpenCV Object Tracker](https://github.com/likhitha-dhanaraju/Object_tracker)</li><li>[CAD Data Pre-processing](https://github.com/likhitha-dhanaraju/Densification-of-point-cloud)</li></ul>               |
+| SQL                          | 🌟🌟🌟🌟    |  <ul><li>[Customer Churn Prediction](https://github.com/likhitha-dhanaraju/churn-prediction)</li></ul>              |
 | MS Excel                     | 🌟🌟🌟🌟🌟  |                |
-| Power BI                     | 🌟🌟🌟       |                |
+| Power BI                     | 🌟🌟🌟       |  <ul><li>[Financial Dashboard](https://github.com/likhitha-dhanaraju/financial_dashboard)</li></ul>              |
+
 
 
 ## Data Scientist Skills Showcase
 
 | **Skill**                       | **Level**         | **Projects**       |
 | :-----------------------------: | :---------------: | :----------------: |
-| Machine Learning            | 🌟🌟🌟🌟    |                |
-| Computer Vision             | 🌟🌟🌟🌟    |               |
-| Natural Language Processing | 🌟🌟🌟       | <ul><li>[SmartAssist Chatbot](https://github.com/likhitha-dhanaraju/smart-assist-chatbot)</li>
-                                                     <li>[Sentiment Analysis on ChatGPT](https://github.com/likhitha-dhanaraju/chat-gpt-sentiment-analysis)</li></ul>   |
-
+| Machine Learning            | 🌟🌟🌟🌟    |  <ul><li>[Customer Churn Prediction](https://github.com/likhitha-dhanaraju/churn-prediction)</li></ul>              |
+| Computer Vision             | 🌟🌟🌟🌟    |  <ul><li>[Shelf Space Optimization](https://github.com/likhitha-dhanaraju/Shelf-space-optimisation)</li><li>[Manufacturing Fault Detection](https://github.com/likhitha-dhanaraju/manufacturing_fault_detection)</li><li>[Automatic Retail Checkout](https://github.com/likhitha-dhanaraju/retail-checkout)</li><li>[Neural Style Transfer](https://github.com/likhitha-dhanaraju/Neural_style_transfer)</li><li>[CNN on CIFAR Data](https://github.com/likhitha-dhanaraju/CIFAR)</li></ul>             |
+| Natural Language Processing | 🌟🌟🌟       | <ul><li>[SmartAssist Chatbot](https://github.com/likhitha-dhanaraju/smart-assist-chatbot)</li><li>[Sentiment Analysis on ChatGPT](https://github.com/likhitha-dhanaraju/chat-gpt-sentiment-analysis)</li><li>[Product Similarity Finder](https://github.com/likhitha-dhanaraju/e-commerce_ai)</ul>   |
+| Multi-modal models          | 🌟🌟          | <ul><li>[Image Captioning Model](https://github.com/likhitha-dhanaraju/e-commerce_ai)</li></ul>
+| HTML, CSS, Javascript       | 🌟🌟🌟       | <ul><li>[Web-based Augmented Reality](https://github.com/likhitha-dhanaraju/Augmented_Reality)</li><li>[SmartAssist Chatbot](https://github.com/likhitha-dhanaraju/smart-assist-chatbot)</li></ul>
 
 
 ### 💼 Work Experience
