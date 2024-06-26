@@ -30,8 +30,8 @@ Analytical thinker with experience in management consulting, e-commerce and tech
 
 ### Data Analyst Skills Showcase
 
-| Skill                        | Level         | Projects     |
-| :--------------------------: | :-----------: | :------------: |
+| **Skill**                        | **Level**         | **Projects**     |
+| :------------------------------: | :---------------: | :--------------: |
 | Python                       | 🌟🌟🌟🌟    |                |
 | SQL                          | 🌟🌟🌟🌟    |                |
 | MS Excel                     | 🌟🌟🌟🌟🌟  |                |
@@ -40,8 +40,8 @@ Analytical thinker with experience in management consulting, e-commerce and tech
 
 ## Data Scientist Skills Showcase
 
-| Skill                       | Level         | Projects     |
-| :-------------------------: | :-----------: | :------------: |
+| **Skill**                       | **Level**         | **Projects**       |
+| :-----------------------------: | :---------------: | :----------------: |
 | Machine Learning            | 🌟🌟🌟🌟    |                |
 | Computer Vision             | 🌟🌟🌟🌟    |               |
 | Natural Language Processing | 🌟🌟🌟       |                |
