@@ -44,7 +44,8 @@ Analytical thinker with experience in management consulting, e-commerce and tech
 | :-----------------------------: | :---------------: | :----------------: |
 | Machine Learning            | 🌟🌟🌟🌟    |                |
 | Computer Vision             | 🌟🌟🌟🌟    |               |
-| Natural Language Processing | 🌟🌟🌟       |                |
+| Natural Language Processing | 🌟🌟🌟       | [SmartAssist Chatbot](https://github.com/likhitha-dhanaraju/smart-assist-chatbot)
+[Sentiment Analysis on ChatGPT](https://github.com/likhitha-dhanaraju/chat-gpt-sentiment-analysis)   |
 
 
 
