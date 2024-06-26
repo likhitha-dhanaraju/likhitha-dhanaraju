@@ -49,7 +49,7 @@ Analytical thinker with experience in management consulting, e-commerce and tech
 
 ### 💼 Work Experience
 
-**Business Intelligence Engineer Intern, Amazon, Luxembourg**
+**Business Intelligence Engineer Intern, Amazon, Luxembourg**  
 June 2024 - Ongoing
 
 **Decision Analytics Associate Consultant, ZS Associates, Pune, India**  
