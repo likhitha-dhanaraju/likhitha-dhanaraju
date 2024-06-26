@@ -6,7 +6,7 @@
 
 ### 👩‍💼 About Me
 
-Analytical thinker with experience in management consulting and e-commerce, passionate about leading high-quality projects and bringing technical expertise in Python, SQL, and Excel. Eager to continue learning and contribute to a data-driven team for informed decision-making.
+Analytical thinker with experience in management consulting, e-commerce and technology spaces, passionate about leading high-quality projects and bringing technical expertise in Python, SQL, and Excel. Eager to continue learning and contribute to a data-driven team for informed decision-making.
 
 ### 🎓 Education
 
@@ -14,7 +14,7 @@ Analytical thinker with experience in management consulting and e-commerce, pass
   MSc in Data Analytics and Artificial Intelligence (Expected Graduation: Dec 2024)  
   - 🏅 Cumulative GPA: 15.45/20 (Top 5% of the batch)  
   - 📚 Relevant coursework: Data Visualisation with Power BI, Web Analytics, Data Mining, Machine Learning  
-  - 📝 Master thesis: SmartAssist: Intelligent chatbot to enhance user shopping on e-commerce websites
+  - 📝 Master thesis: SmartAssist: Intelligent chatbot to enhance user shopping on e-commerce websites to help with product information, analyse customer reviews, and provide customized product recommendations.
 
 - **National Institute of Technology Karnataka Surathkal, India**  
   Bachelor of Technology in Mechanical Engineering  
@@ -23,25 +23,51 @@ Analytical thinker with experience in management consulting and e-commerce, pass
 
 ### 🛠️ Skills and Languages
 
-- **Tools:** MS Office (Excel, VBA, PowerPoint), Power BI, Tableau, AWS, Google Cloud, Azure, Git, Jira
+- **Tools:** MS Office (Excel, VBA, PowerPoint), Power BI, Quicksights, Tableau, Google Cloud, Azure, Git, Jira
 - **Programming:** SQL (Databricks, Snowflake), Python (pandas, Django, PyTorch, TensorFlow, Keras), HTML, CSS
 - **Languages:** English (Native), French (Elementary), Korean (Intermediate), Kannada (Native)
 
+
+### Data Analyst Skills Showcase
+
+| Skill             | Level         | Experience     |
+| :---------------: | :-----------: | :------------: |
+| Python            | Content Cell  |                |
+| SQL               |               |                |
+| MS Excel          |               |                |
+| Power BI          |               |                |
+
+## Data Scientist Skills Showcase
+
+| Skill                       | Level         | Experience     |
+| :-------------------------: | :-----------: | :------------: |
+| Machine Learning            | Content Cell  |                |
+| Computer Vision             |               |                |
+| Natural Language Processing |               |                |
+
+
+
 ### 💼 Work Experience
+
+**Business Intelligence Engineer Intern, Amazon, Luxembourg**
+June 2024 - Ongoing
 
 **Decision Analytics Associate Consultant, ZS Associates, Pune, India**  
 Jun 2021 - Jul 2023  
-- 📈 Built a robust optimization model to re-identify high-value targets, resulting in a 15% increase in sales.
+- 📈 Built a robust optimization model to re-identify high-value targets, resulting in a 15% increase in sales. 
 - 🎯 Devised a collaborative customer targeting strategy, leading to a territory design revamp and portfolio expansion.
 - 🚀 Revamped territory management to maximize penetration within customer segments, resulting in a quarterly 30% increase in revenue.
 
+  
 **Computer Vision Intern, Vectorised AI Labs, Virtual (India)**  
 May 2020 - Jul 2020  
 - 🤖 Conceptualized an algorithm for automatic data collection and engineered a custom image captioning model for fashion product images.
 
+
 **ML/AI Development Intern, Dumla Inc, Virtual (US)**  
 Jan 2020 - Mar 2020  
 - 🔍 Optimized SSD models for detecting empty shelf spaces with 95% accuracy and deploying the model in a Docker container for real-time monitoring.
+
 
 **Analytics Research Intern, Indian Institute of Science, Bangalore, India**  
 May 2019 - Jul 2019  
