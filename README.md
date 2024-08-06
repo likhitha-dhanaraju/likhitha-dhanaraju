@@ -54,6 +54,8 @@ Analytical thinker with experience in management consulting, e-commerce and tech
 
 **Business Intelligence Engineer Intern, Amazon, Luxembourg**  
 June 2024 - Ongoing
+- Developed the automatic data model pipeline for Month-End-Close for the Controllership team, reducing the processing time by 75% and maintaining 99% accuracy with the legacy process.
+- Developed 5+ automated User Acceptance Tests on Quicksights in the Shadow phase of the new Middle Mile transportation controllership data pipeline, which led to identifying 10+ issues
 
 **Decision Analytics Associate Consultant, ZS Associates, Pune, India**  
 Jun 2021 - Jul 2023  
